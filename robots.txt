@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://igentrien.github.io/igentrien.igentrien
+Sitemap: https://igentrien.github.io/app/igentrien.igentrien
+Sitemap: https://igentrien.github.io/assets/igentrien.igentrien
+Sitemap: https://igentrien.github.io/css/igentrien.igentrien
+Sitemap: https://igentrien.github.io/includes/igentrien.igentrien
+Sitemap: https://igentrien.github.io/item/igentrien.igentrien
+Sitemap: https://igentrien.github.io/src/igentrien.igentrien
